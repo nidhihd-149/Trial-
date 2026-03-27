@@ -7,3 +7,4 @@ git clone link
 git add fileName
 git add . 
 git commit -m "message"
+git push origin main
