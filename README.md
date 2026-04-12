@@ -15,3 +15,5 @@ git commit -m "message"
 git push origin main
 <br>
 <h4> Git - version control system
+<br> git config --global user.name ""
+<br> git congif --global user.email ""
